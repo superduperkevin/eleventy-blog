@@ -6,4 +6,17 @@ tags: sprint1, splice-it
 layout: layouts/post.njk
 ---
 
-This is the first sentence.
+*What did you work on this week?*
+
+What did you learn?
+
+What was difficult?
+
+What was effective about both your personal and your groups workflow? Ineffective?
+
+Any additional thoughts on your product
+
+Examples are helpful:
+images
+links
+snippets
