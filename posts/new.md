@@ -6,10 +6,10 @@ tags: sprint1, splice-it
 layout: layouts/post.njk
 ---
 
-*What did you work on this week?*
+## What did you work on this week?
 This week, we worked on integrating the feedback we got in the last week's presentation into our overall application design and userflow. As a group, we redesigned several main user flow pages, including the game thread page and the game list page.
 
-What did you learn?
+##What did you learn?
 As a designer, I learned a lot this week in terms of designing clean and modern pages that are also intuive and clear to use. It was also crucial for our team to include everyone's inputs into building the theme and design.
 
 What was difficult?
