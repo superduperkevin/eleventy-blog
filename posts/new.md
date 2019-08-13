@@ -25,6 +25,5 @@ There is definitely a potential for an awesome project that if we channel our pa
 
 #### Examples
 images
-
 links
 snippets
