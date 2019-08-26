@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable default-case */
 module.exports = function(collection) {
   const tagSet = new Set();
