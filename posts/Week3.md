@@ -2,7 +2,8 @@
 title: Splice-It Sprint 3
 description: Sprint 3 blog post for Splice-It by Kevin Amarbayar.
 date: 2019-08-25
-tags: sprint3, splice-it
+tags: 
+  - another-tag
 layout: layouts/post.njk
 ---
 
